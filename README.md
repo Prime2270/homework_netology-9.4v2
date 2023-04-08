@@ -65,8 +65,7 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![job2](https://github.com/Prime2270/homework_netology-9.4v2/blob/main/img/job2.png)`
 
 
 ---
@@ -90,8 +89,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![job3.1](https://github.com/Prime2270/homework_netology-9.4v2/blob/main/img/job3.1.png)`
+![job3.2](https://github.com/Prime2270/homework_netology-9.4v2/blob/main/img/job3.2.png)`
 
 ### Задание 4
 
