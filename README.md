@@ -41,8 +41,7 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![job1](git_project/homework_netology-9.4v2/img/job1.png)`
+![job1](https://github.com/Prime2270/homework_netology-9.4v2/blob/main/img/job1.png)`
 
 
 ---
